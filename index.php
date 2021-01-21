@@ -37,7 +37,7 @@ It's a small
 </p>
 
 
-<font size="3" color=red>ìBeginning today, I will create a new future by creating a new me. </font>
+<font size="3" color=red>‚ÄúBeginning today, I will create a new future by creating a new me. </font>
 <br><br>
 
 <font size="4">No longer will I dwell in a pit of despair,</font>
@@ -53,7 +53,7 @@ It's a small
 <br><br>
 <font size="7" color=red><b>I will always choose to act!  I seize this moment. </b></font>
 <br><br>
-<font size="7">I choose now.î ~</font>
+<font size="7">I choose now.‚Äù ~</font>
 <br><br>
 <font size="3" color=red>Andy Andrews</font>
 
